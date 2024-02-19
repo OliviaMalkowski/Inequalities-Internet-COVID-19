@@ -1,5 +1,5 @@
 # Inequalities-Internet-COVID-19
-Stata and Mplus syntax for "Sex and socio-economic inequalities in the breadth of internet use before and during the COVID-19 pandemic among older adults in England"
+Stata and Mplus syntax for "Socio-economic inequalities in the breadth of internet use before and during the COVID-19 pandemic among older adults in England"
 
 The repository contains the Stata and Mplus syntax to replicate all of the analyses from our publication
 
